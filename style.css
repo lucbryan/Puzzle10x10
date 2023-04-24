@@ -1,0 +1,18 @@
+#grade {
+  width: 1000px;
+  height: 1000px;
+  background-size: 1000px 1000px;
+}
+
+
+#grade div {
+  width: 10vw;
+  height: 10vh;
+  position: absolute;
+  background-size: 1000px 1000px;
+  transition: 0.25s ease-in-out;
+  border: 1px solid black;
+}
+
+
+
